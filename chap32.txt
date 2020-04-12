@@ -1,0 +1,474 @@
+The statement that magnetic field lines form closed loops is a direct consequence of: 
+A)  Faraday's law 
+B)  Ampere's law 
+C)  Gauss' law for electricity 
+D)  Gauss' law for magnetism 
+E)  the Lorentz force 
+ANSWER: D
+
+A magnetic field parallel to the x axis with a magnitude that decreases with increasing x but does not change with y and z is impossible according to: 
+A)  Faraday's law 
+B)  Ampere's law 
+C)  Gauss' law for electricity 
+D)  Gauss' law for magnetism 
+E)  Newton's second law 
+ANSWER: D
+
+According to Gauss' law for magnetism, magnetic field lines: 
+A)  form closed loops 
+B)  start at south poles and end at north poles 
+C)  start at north poles and end at south poles 
+D)  start at both north and south poles and end at infinity 
+E)  do not exist 
+ANSWER: A
+
+A magnetic field exists between the plates of a capacitor: 
+A)  always 
+B)  never 
+C)  when the capacitor is fully charged 
+D)  while the capacitor is being charged 
+E)  only when the capacitor is starting to be charged 
+ANSWER: D
+
+A cylindrical region contains a uniform electric field that is along the cylinder axis and is changing with time. If r is the distance from the cylinder axis the magnitude of the magnetic field within the region is: 
+A)  uniform 
+B)  proportional to 1/r 
+C)  proportional to r2
+D)  proportional to 1/r2
+E)  proportional to r 
+ANSWER: E
+
+A cylindrical region contains a uniform electric field that is parallel to the axis and is changing with time. If r is the distance from the cylinder axis the magnitude of the magnetic field outside the region is: 
+A)  zero 
+B)  proportional to 1/r 
+C)  proportional to r2
+D)  proportional to 1/r2
+E)  proportional to r 
+ANSWER: B
+
+A 0.70-m radius cylindrical region contains a uniform electric field that is parallel to the axis and is increasing at the rate 5.0 x 10^12 V/m.s. The magnetic field at a point 0.25 m from the axis has a magnitude of: 
+A)  0 T
+B)  7.0 x 10–6 T 
+C)  2.8 x 10–5 T 
+D)  5.4 x 10–5 T 
+E)  7.0 x 10–5 T 
+ANSWER: B
+
+A 0.70-m radius cylindrical region contains a uniform electric field that is parallel to the axis and is increasing at the rate 5.0 x 10^12 V/m.s. The magnetic field at a point 1.2 m from the axis has a magnitude of: 
+A)  0 T
+B)  7.0 x 10–6 T 
+C)  1.1 x 10–5 T 
+D)  2.3 x 10–5 T 
+E)  2.8 x 10–5 T 
+ANSWER: C
+
+A sinusoidal emf is connected to a parallel plate capacitor. The magnetic field between the plates is: 
+A)  zero 
+B)  constant 
+C)  sinusoidal and its amplitude does not depend on the frequency of the source 
+D)  sinusoidal and its amplitude is proportional to the frequency of the source 
+E)  sinusoidal and its amplitude is inversely proportional to the frequency of the source 
+ANSWER: D
+
+Suppose you are looking into one end of a long cylindrical tube in which there is a uniform electric field, pointing away from you. If the magnitude of the field is decreasing with time the direction of the induced magnetic field is: 
+A)  toward you 
+B)  away from you 
+C)  clockwise 
+D)  counterclockwise 
+E)  to your right 
+ANSWER: D
+
+Suppose you are looking into one end of a long cylindrical tube in which there is a uniform electric field, pointing away from you. If the magnitude of the field is decreasing with time the field lines of the induced magnetic field are: 
+A)  circles 
+B)  ellipses 
+C)  straight lines parallel to the electric field 
+D)  straight lines perpendicular to the electric field 
+E)  none of the above 
+ANSWER: A
+
+An electron is on the z axis moving toward the xy plane but it has not reached that plane yet. At that instant: 
+A)  there is only a true current through the xy plane 
+B)  there is only a displacement current through the xy plane 
+C)  there are both true and displacement currents through the xy plane 
+D)  there is neither a true nor a displacement current through the xy plane 
+E)  none of the above are true 
+ANSWER: B
+
+Two of Maxwell's equations contain a path integral on the left side and an area integral on the right. For them: 
+A)  the path must pierce the area 
+B)  the path must be well-separated from the area 
+C)  the path must be along a field line and the area must be perpendicular to the field line 
+D)  the path must be the boundary of the area 
+E)  the path must lie in the area, away from its boundary 
+ANSWER: D
+
+Two of Maxwell's equations contain an integral over a closed surface. For them the infinitesimal vector area dA is always: 
+A)  tangent to the surface 
+B)  perpendicular to the surface and pointing outward 
+C)  perpendicular to the surface and pointing inward 
+D)  tangent to a field line 
+E)  perpendicular to a field line 
+ANSWER: B
+
+Two of Maxwell's equations contain a path integral on the left side and an area integral on the right. The directions of the infinitesimal path element ds and infinitesimal area element dA are: 
+A)  always in the same direction 
+B)  always in opposite directions 
+C)  always perpendicular to each other 
+D)  never perpendicular to each other 
+E)  none of the above 
+ANSWER: E
+
+Two of Maxwell's equations contain a path integral on the left side and an area integral on the right. Suppose the area is the surface of a piece of paper at which you are looking and dA ? is chosen to point toward you. Then, the path integral is: 
+A)  clockwise around the circumference of the paper 
+B)  counterclockwise around the circumference of the paper 
+C)  from left to right 
+D)  from right to left 
+E)  from top to bottom 
+ANSWER: B
+
+A 1.2-m radius cylindrical region contains a uniform electric field along the cylinder axis.  It is increasing uniformly with time.  To obtain a total displacement current of 2.0 x 10-9 A through a cross section of the region, the magnitude of the electric field should change at a rate of:
+A)  5.0 V/m·s
+B)  12 V/m·s
+C)  37 V/m·s
+D)  50 V/m·s
+E)  4.0 x 107 V/m·s
+ANSWER: D
+
+A 1-microF capacitor is connected to an emf that is increasing uniformly with time at a rate of 100 V/s. The displacement current between the plates is: 
+A)  0 A
+B)  1 x 10–8 A 
+C)  1 x 10–6 A 
+D)  1 x 10–4 A 
+E)  100 A 
+ANSWER: D
+
+Displacement current exists wherever there is: 
+A)  moving charge
+B)  a magnetic field
+C)  a changing magnetic field 
+D)  an electric field 
+E)  a changing electric field 
+ANSWER: E
+
+A current of 1 A is used to charge a parallel plate capacitor with square plates. If the area of each plate is 0.6 m2 the displacement current through a 0.3 m2 area wholly between the capacitor plates and parallel to them is: 
+A)  2 A 
+B)  1 A 
+C)  0.7 A 
+D)  0.5 A 
+E)  0.25 A 
+ANSWER: D
+
+Displacement current exists in the region between the plates of a parallel plate capacitor if: 
+A)  the capacitor leaks charge across the plates 
+B)  the capacitor is being discharged 
+C)  the capacitor is fully charged 
+D)  the capacitor is fully discharged 
+E)  none of the above are true 
+ANSWER: B
+
+A circular parallel-plate capacitor whose plates have a radius of 25 cm is being charged with a current of 1.3 A. What is the magnetic field 11 cm from the center of the plates?
+A) 4.6 x 10-7 T
+B) 1.0 x 10-6 T
+C) 2.4 x 10-6 T
+D) 3.1 x 10-6 T
+E) 6.2 x 10-6 T
+ANSWER: A
+
+One of the crucial facts upon which the Maxwell equations are based is: 
+A)  the numerical value of the electron charge 
+B)  charge is quantized 
+C)  the numerical value of the charge/mass ratio of the electron 
+D)  there are three types of magnetic materials 
+E)  none of the above 
+ANSWER: E
+
+Maxwell's equations, along with an appropriate symmetry argument, can be used to calculate: 
+A)  the electric force on a given charge 
+B)  the magnetic force on a given moving charge 
+C)  the flux of a given electric field 
+D)  the flux of a given magnetic field 
+E)  none of these 
+ANSWER: E
+
+The magnetic field of Earth is roughly the same as that of a magnetic dipole with a dipole moment of about: 
+A)  1017 J/T 
+B)  1019 J/T 
+C)  1021 J/T 
+D)  1023 J/T 
+E)  1025 J/T 
+ANSWER: D
+
+Of the following places one would expect that the horizontal component of the Earth's magnetic field to be largest in: 
+A)  Maine 
+B)  Florida 
+C)  Maryland 
+D)  New York 
+E)  Iowa 
+ANSWER: B
+
+A positively charged ion, due to a cosmic ray, is headed through Earth's atmosphere toward the center of Earth. Due to Earth's magnetic field, the ion will be deflected: 
+A)  south 
+B)  north 
+C)  west 
+D)  east 
+E)  not at all since it is a charge and not a pole 
+ANSWER: D
+
+The polarity of an unmarked magnet can be determined using: 
+A)  a charged glass rod 
+B)  a compass 
+C)  an electroscope 
+D)  another unmarked magnet 
+E)  iron filings 
+ANSWER: B
+
+A bar magnet is placed vertically with its S pole up and its N pole down. The B ? field at its center is: 
+A)  zero 
+B)  down 
+C)  up 
+D)  horizontal 
+E)  slightly below the horizontal 
+ANSWER: B
+
+A bar magnet is broken in half. Each half is broken in half again, etc. The observation is that each piece has both a north and south pole. This is usually explained by: 
+A)  Ampere's theory that all magnetic phenomena result from electric currents 
+B)  our inability to divide the magnet into small enough pieces 
+C)  Coulomb's law 
+D)  Lenz' law 
+E)  conservation of charge 
+ANSWER: A
+
+The potential energy of a magnetic dipole in an external magnetic field is least when: 
+A)  the dipole moment is parallel to the field 
+B)  the dipole moment is antiparallel to the field 
+C)  the dipole moment is perpendicular to the field 
+D)  none of the above (the same energy is associated with all orientations) 
+E)  none of the above (no energy is associated with the dipole-field interaction) 
+ANSWER: A
+
+The magnetic field lines due to an ordinary bar magnet: 
+A)  form closed curves 
+B)  cross one another near the poles 
+C)  are more numerous near the N pole than near the S pole 
+D)  leave the S pole, loop around the outside of the magnet, and enter the N pole 
+E)  none of the above 
+ANSWER: A
+
+Which of the following statements about the Earth’s magnetic field is correct?
+A) The Earth’s magnetic field is approximately that of a dipole, and the north magnetic pole is in the northern hemisphere.
+B) The Earth’s magnetic field is approximately that of a dipole, and the north magnetic pole is in the southern hemisphere.
+C) The Earth’s magnetic field is approximately that of a monopole, and the north magnetic pole is in the northern hemisphere.
+D) The Earth’s magnetic field is approximately that of a monopole, and the north magnetic pole is in the southern hemisphere.
+E) The Earth’s magnetic field is approximately that of a quadrupole, and the north magnetic pole is in the eastern hemisphere.
+ANSWER: B
+
+Which of the following statements is correct?
+A) The declination of the Earth’s magnetic field is the angle between a horizontal plane and the direction of the field.
+B) The declination of the Earth’s magnetic field is the angle between a vertical plane and the direction of the field.
+C) The inclination of the Earth’s magnetic field is the angle between a horizontal plane and the direction of the field.
+D) The inclination of the Earth’s magnetic field is the angle between the horizontal component of the field direction and the direction to geographic north.
+E) Inclination and declination mean the same thing.
+ANSWER: C
+
+The molecular theory of magnetism can explain each of the following EXCEPT: 
+A)  a N pole attracts a S pole 
+B)  stroking an iron bar with a magnet will magnetize the bar 
+C)  when a bar magnet is broken in two, each piece is a bar magnet 
+D)  heating tends to destroy magnetization 
+E)  hammering tends to destroy magnetization 
+ANSWER: A
+
+The magnetic properties of materials stem chiefly from: 
+A)  particles with north poles 
+B)  particles with south poles 
+C)  motions of protons within nuclei 
+D)  proton spin angular momentum 
+E)  electron magnetic dipole moments 
+ANSWER: E
+
+The spin magnetic dipole moment of an electron: 
+A)  is in the same direction as the spin angular momentum 
+B)  is zero 
+C)  has a magnitude that depends on the orbital angular momentum 
+D)  has a magnitude that depends on the applied magnetic field 
+E)  none of the above
+ANSWER: E
+
+Which of the following statements is correct?
+A) The spin angular momentum of the electron can be directly observed, but the spin magnetic dipole moment cannot be.
+B) The spin angular momentum of the electron cannot be directly observed, but the spin magnetic dipole moment can be.
+C) Both the spin angular momentum and the spin magnetic dipole moment of the electron can be directly observed.
+D) Neither the spin angular momentum nor the spin magnetic dipole moment of the electron can be directly observed.
+E) Although both the spin angular momentum and the spin magnetic dipole moment can be defined theoretically, neither has any physical meaning at all.
+ANSWER: D
+
+What are the possible allowed values of the spin magnetic quantum number ms of the electron?
+A) +1/2 only
+B) ±1/2
+C) any half-odd integer
+D) any integer
+E) It depends on the external magnetic field.
+ANSWER: B
+
+If an electron has zero orbital angular momentum, the magnitude of its magnetic dipole moment equals: 
+A)  zero 
+B)  half the Bohr magneton 
+C)  a Bohr magneton 
+D)  twice a Bohr magneton 
+E)  none of these 
+ANSWER: C
+
+The magnetic dipole moment of an atomic electron is typically: 
+A)  much less than a Bohr magneton 
+B)  a few Bohr magnetons 
+C)  much greater than a Bohr magneton 
+D)  much greater or much less than a Bohr magneton, depending on the atom 
+E)  not related to the value of the Bohr magneton 
+ANSWER: B
+
+The magnitude of the Bohr magneton is about: 
+A)  10–15 J/T
+B)  10–19 J/T
+C)  10–23 J/T
+D)  10–27 J/T
+E)  10–31 J/T
+ANSWER: C
+
+If L is the orbital angular momentum of an electron, the magnetic dipole moment associated with its orbital motion: 
+A)  is in the direction of L and has magnitude proportional to L 
+B)  is opposite to the direction of L and has magnitude proportional to L 
+C)  is in the direction of L and has magnitude proportional to L2
+D)  is opposite to the direction of L and has magnitude proportional to L2
+E)  does not depend on L
+ANSWER: B
+
+The intrinsic magnetic dipole moments of protons and neutrons are much less than that of an electron because: 
+A)  their masses are greater 
+B)  their angular momenta are much less 
+C)  their angular momenta are much greater 
+D)  their charges are much less 
+E)  their radii are much less 
+ANSWER: A
+
+What are the possible allowed values of the orbital magnetic quantum number ml of the electron?
+A) 0 only
+B) 0, ±1 only
+C) any half-odd integer
+D) 0, ±1, ±2, …, up to the maximum value for that orbit
+E) It depends on the external magnetic field.
+ANSWER: D
+
+An electron in a hydrogen atom moves in a circle of radius 1.1 x 10-10 m at a speed of about 1.6 x 106 m/s. What is the magnetic dipole moment of this electron due to its orbital motion?
+A) 9.3 x 10-24 J/T
+B) 1.4 x 10-23 J/T
+C) 1.9 x 10-23 J/T
+D) 2.8 x 10-23 J/T
+E) 3.5 x 10-23 J/T
+ANSWER: B
+
+Lenz' law can explain: 
+A)  paramagnetism only 
+B)  diamagnetism only 
+C)  ferromagnetism only 
+D)  only two of the three types of magnetism 
+E)  all three of the types of magnetism 
+ANSWER: B
+
+The units of magnetization are: 
+A)  ampere 
+B)  ampere?meter 
+C)  ampere?meter2
+D)  ampere/meter 
+E)  ampere/meter2
+ANSWER: D
+
+A paramagnetic substance, in an external magnetic field, is thermally isolated. The field is then removed. As a result: 
+A)  the magnetic energy of the magnetic dipoles decreases 
+B)  the temperature of the substance increases 
+C)  the magnetization decreases, but only slightly 
+D)  the magnetization reverses direction 
+E)  none of the above 
+ANSWER: E
+
+Paramagnetism is closely associated with: 
+A)  the tendency of electron dipole moments to align with an applied magnetic field 
+B)  the tendency of electron dipole moments to align opposite to an applied magnetic field 
+C)  the exchange force between electrons
+D)  the force exerted by electron dipole moments on each other 
+E)  the torque exerted by electron dipole moments on each other
+ANSWER: A
+
+Magnetization is: 
+A)  the current density in an object 
+B)  the charge density of moving charges in an object 
+C)  the magnetic dipole moment of an object 
+D)  the magnetic dipole moment per unit volume of an object 
+E)  the magnetic field per unit volume produced by an object 
+ANSWER: D
+
+A paramagnetic substance is placed in a weak magnetic field and its absolute temperature T is increased. As a result, its magnetization: 
+A)  increases in proportion to T 
+B)  increases in proportion to T2
+C)  remains the same 
+D)  decreases in proportion to 1/T 
+E)  decreases in proportion to 1/T2
+ANSWER:D
+
+When a permanent magnet is strongly heated: 
+A)  nothing happens 
+B)  it becomes an induced magnet 
+C)  it loses its magnetism 
+D)  its magnetism increases 
+E)  its polarity reverses 
+ANSWER: C
+
+Ferromagnetism is closely associated with: 
+A)  the tendency of electron dipole moments to align with an applied magnetic field 
+B)  the tendency of electron dipole moments to align opposite to an applied magnetic field 
+C)  the tendency of electron dipole moments to change magnitude in an applied magnetic field 
+D)  the tendency of electron dipole moments to align with each other 
+E)  the force exerted by electron dipole moments on each other 
+ANSWER: D
+
+Magnetization vectors in neighboring ferromagnetic domains are: 
+A)  always in opposite directions 
+B)  always in the same direction 
+C)  always in different directions 
+D)  sometimes in different directions and sometimes in the same direction 
+E)  sometimes in opposite directions and sometimes in the same direction 
+ANSWER: C
+
+The behavior of ferromagnetic domains in an applied magnetic field gives rise to: 
+A)  hysteresis 
+B)  ferromagnetism 
+C)  the Curie law 
+D)  a lowering of the Curie temperature 
+E)  Gauss' law for magnetism 
+ANSWER: A
+
+Because ferromagnets exhibit hysteresis, the magnetization: 
+A)  can never be in the same direction as an applied field 
+B)  may not vanish when an applied field is reduced to zero 
+C)  can never vanish 
+D)  is proportional to any applied magnetic field 
+E)  is always opposite to the direction of any applied magnetic field 
+ANSWER: B
+
+An unmagnetized steel bar is placed inside a solenoid. As the current in the solenoid is slowly increased from zero to some large value, the magnetization of the bar: 
+A)  increases proportionally with the current 
+B)  remains zero for a while and then increases linearly with any further increase in current 
+C)  increases with increasing current at first but later is much less affected by it 
+D)  is unaffected by the current 
+E)  increases quadratically with the current 
+ANSWER: C
+
+Of the three chief kinds of magnetic materials (diamagnetic, paramagnetic, and ferromagnetic) which are used to make permanent magnets? 
+A)  only diamagnetic 
+B)  only ferromagnetic 
+C)  only paramagnetic 
+D)  only paramagnetic and ferromagnetic 
+E)  all three 
+ANSWER: B
+
+
+
